@@ -1,0 +1,28 @@
+﻿sep=,
+Nova Entidade,Vestibular,vestibular/
+Nova Entidade,Trancamento de matrícula,Trancamento de matrícula/trancamento de semestre/
+Nova Entidade,Teste de proficiência,Teste de proficiência/proficiencia/
+Nova Entidade,Sistema de recuperação,Sistema de recuperação/
+Nova Entidade,Semana de estudos,semana de estudos/
+Nova Entidade,Remanejamento interno,remanejamento interno/
+Nova Entidade,Relatório de matrícula,Relatório de matrícula/Integralização currícular/
+Nova Entidade,Reingresso,Reingresso/
+Nova Entidade,Processo seletivo aberto,Processo seletivo aberto/
+Nova Entidade,Período letivo,Período letivo/
+Nova Entidade,PAA,PAA/
+Nova Entidade,Média e frequência,Média e frequência/
+Nova Entidade,Horário,Horário/
+Nova Entidade,Feriado/Expediente suspenso,Feriado/Expediente suspenso/Feriado/Expediente suspenso/
+Nova Entidade,Férias de verão,Férias de verão/
+Nova Entidade,Exames finais,Exames finais/
+Nova Entidade,Estudante intercambista,Estudante intercambista/
+Nova Entidade,Estudante especial,Estudante especial/
+Nova Entidade,Desistência de matrícula em disciplina,Desistência de matrícula em disciplina/
+Nova Entidade,Congresso de iniciação científica,Congresso de iniciação científica/
+Nova Entidade,Colação de grau,Colação de grau/
+Nova Entidade,Catálogo dos cursos de graduação,Catálogo dos cursos de graduação/
+Nova Entidade,Carta de aceitação,Carta de aceitação/
+Nova Entidade,Avaliação de discussão de curso,Avaliação de discussão de curso/
+Nova Entidade,Aproveitamento de estudos,Aproveitamento de estudos/
+Nova Entidade,Alteração de matrícula,Alteração de matrícula/
+Alteração de matrícula,Alteração de matrícula,alteracao de matricula/
